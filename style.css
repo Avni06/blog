@@ -1,0 +1,48 @@
+#home{
+    font-family:'Euphoria Script', cursive;
+    color: #afff14;
+    font size: 50 px;
+    padding: 70 px 0;
+    text-align:center;
+    overflow-x: hidden;
+    background-image: url("img.jpg");
+    width: auto;
+    height: auto;
+    padding-bottom: 100%;
+  }
+
+  #main{
+      font-family: 'Amatic SC', cursive;
+  }
+  
+  /*Navbar*/
+  .navbar{
+    background-color:;
+  }
+  
+  #addCard{
+    color: #9F0F18;
+    background-image: url(andrew-buchanan-NzRhKbvS08s-unsplash.jpg);
+    width:inherit;
+    height: auto;
+  }
+  
+  hr{
+    height: 3px;
+    width: 50px;
+    background-color: #ffffff;
+    border-bottom:red;
+  }
+  #addBtn{
+    background-color: #A83B00;
+    color: #ffffff;
+  
+  #delBtn{
+    background-color: #CB873A;
+    color: #ffffff;
+  }
+  
+  }
+  .form-control{
+  font-family: 'Raleway', sans-serif;
+  }
